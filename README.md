@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 Hi, I’m Simran <br><br>🎓 Final-year B.Tech student majoring in Computer Science & Engineering<br>💻 Interested in Backend Development, Machine Learning, and AI-powered applications<br><br>🔭 Currently working on:<br><br>Backend APIs with Node.js & Express<br><br>ML/DL projects (classification, recommendation systems)<br><br>Academic & research-oriented projects<br><br>🌱 Currently learning:<br><br>Advanced backend concepts (auth, scalability)<br><br>Model fine-tuning & applied ML<br><br>System design fundamentals<br><br>🤝 Looking to collaborate on:<br><br>Open-source backend or ML projects<br><br>Real-world problem-solving applications<br><br>Research-oriented AI projects<br><br>💬 Ask me about:<br><br>Python, ML basics, Express APIs<br><br>College projects & internships<br><br>Getting started with AI/ML<br><br>⚡ Fun fact:<br>I enjoy turning academic ideas into working applications and breaking things just to understand how they work.<br>
 
 
