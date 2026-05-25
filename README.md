@@ -1,5 +1,5 @@
 # 
-Hi, I’m Simran <br><br> Final-year B.Tech student majoring in Computer Science & Engineering<br> Interested in Backend Development, Machine Learning, and AI-powered applications<br><br>->Currently working on:<br>Backend APIs with Node.js & Express, <br>ML/DL projects (classification, recommendation systems)<br>Academic & research-oriented projects<br><br>->Currently learning:<br>Advanced backend concepts (auth, scalability)<br>Model fine-tuning & applied ML<br>System design fundamentals<br><br>->Looking to collaborate on:<br>Open-source backend or ML projects<br>Real-world problem-solving applications<br>Research-oriented AI projects<br><br>-> Ask me about:<br>Python, ML basics, Express APIs<br>College projects & internships<br>Getting started with AI/ML<br><br>->I enjoy turning academic ideas into working applications and breaking things just to understand how they work.<br>
+Hi, I’m Simran <br><br> Final-year B.Tech student majoring in Computer Science & Engineering, interested in Backend Development, Machine Learning, and AI-powered applications<br><br>->Currently working on:<br>Backend APIs with Node.js & Express, ML/DL projects (classification, recommendation systems)<br>Academic & research-oriented projects<br><br>->Currently learning:<br>Advanced backend concepts (auth, scalability), model fine-tuning & applied ML<br>System design fundamentals<br><br>->Looking to collaborate on:<br>Open-source backend or ML projects, real-world problem-solving applications, research-oriented AI projects<br><br>-> Ask me about:<br>Python, ML basics, Express APIs<br>College projects & internships<br>Getting started with AI/ML<br><br>->I enjoy turning academic ideas into working applications and breaking things just to understand how they work.<br>
 
 
 #  Tech Stack:
@@ -15,8 +15,6 @@ Hi, I’m Simran <br><br> Final-year B.Tech student majoring in Computer Science
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=similearnergithub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=similearnergithub&icon=0&color=0)](https://visitcount.itsvg.in)
